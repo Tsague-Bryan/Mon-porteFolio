@@ -26,13 +26,13 @@ const projects = [
         description: 'Mon Portfolio est une vitrine interactive de mes compétences et de mes projets, conçue à l aide de React js HTML CSS et JavaScript Ce site a été développé pour présenter mes réalisations en tant que développeur web et pour démontrer mes connaissances en matière de technologies modernes.',
         technologies: ['HTML', 'CSS', 'JavaScript','React js'],
         demoLink: '#',
-        repoLink: '#',
+        repoLink: 'https://github.com/Tsague-Bryan/Mon-porteFolio.git',
         image: img3,
     },
    
     {
         id: 3,
-        title: 'Système de réservation de salles',
+        title: 'systeme de retrouvaille d objets',
         description: 'FindIT est une plateforme web communautaire qui facilite la retrouvaille d objets perdus entre particuliers. L application met en relation les personnes ayant perdu un objet avec celles qui l ont trouvé dans une même zone géographique.',
         technologies: ['React.js', 'MongoDB', 'Node js','Google Map'],
         demoLink: '#',
